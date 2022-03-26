@@ -1,4 +1,4 @@
-## <center>Oi, gente! Sou João Apuã de Melo!</center>
+## <center>Hey, there! I'm João Apuã de Melo!</center>
 Atualmente sou Dev. Júnior na [Tascom](https://www.tascominformatica.com.br/), desenvolvendo produtos inovadores para área de Saúde, na parte de Back-end com Nodejs, JavaScript, Postgres e MongoDB.
 <div align="center">
   <a href="https://github.com/japuamelo">
